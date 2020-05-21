@@ -1,4 +1,3 @@
-snkcnk
 *{
     box-sizing: border-box;
     padding: 0px;
@@ -724,7 +723,7 @@ label{
 .regist-form-active{
     display: block;
 }
-.background-overlay{
+.container{
     position: fixed;
     width: 100%;
     height: 100%;
@@ -734,7 +733,7 @@ label{
     left: 0;
     background-color: rgba(33, 34, 38, 0.7);
 }
-.background-overlay-active{
+.container-active{
     display: block;
 }
 
